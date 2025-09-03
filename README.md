@@ -4,8 +4,6 @@
 
 An intelligent system that uses computer vision and AI to analyze street-view images and automatically detect infrastructure problems like potholes, damaged signs, drainage issues, and safety hazards.
 
-![Urban Maintenance Scout Dashboard](https://via.placeholder.com/800x400/2E3440/88C0D0?text=Urban+Maintenance+Scout+Dashboard)
-
 ## 🚀 Features
 
 - **Automated Street View Analysis**: Fetches Google Street View images for any coordinates
@@ -50,7 +48,7 @@ sudo yum install -y mesa-libGL
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/urban-maintenance-scout.git
+git clone https://github.com/LankeSathwik7/urban-maintenance-scout.git
 cd urban-maintenance-scout
 ```
 
@@ -322,12 +320,6 @@ flake8 .
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/urban-maintenance-scout/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/urban-maintenance-scout/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/urban-maintenance-scout/wiki)
 
 ## 🙏 Acknowledgments
 
